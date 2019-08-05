@@ -4,11 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A collection space for fiber-related work for my book project.
-
-- [a repo of one's own]({{site.baseurl}}/repo/)
-- [bombix &bull; fusus]({{site.baseurl}}/bombix/)
-- [intimate fields](https://hyperrhiz.github.io/intimate-fields)
-- the fates of things - coming soon from Enculturation
-- electric barthes flarf scarf
-- [e-locutio]({{site.baseurl}}/elocutio/)
+I'm an Associate Professor of English at NC State University. These are recent noodlings on the subject of fiber, crafting and wearables. One day they'll be a book.
