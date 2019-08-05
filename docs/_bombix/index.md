@@ -84,24 +84,27 @@ Thus, rhetorical handcrafting – an act of kinesis that explores how objects wo
 I’ll end by showing you a critical making project that I’m working on as an act of rhetorical handcrafting. 
 
 *(show & explain the thing, which is awesome, and includes prosopopeia.)* 
-
-**Sources**
+![alt text]({{site.baseurl}}/bombix/img/project1.jpg "title slide")
+![alt text]({{site.baseurl}}/bombix/img/project2.jpg "title slide")
+![alt text]({{site.baseurl}}/bombix/img/project3.jpg "title slide")
 
-Aldhelm, and A. M. Juster. Saint Aldhelm’s Riddles. University of Toronto Press, Scholarly Publishing Division, 2015. 8-9. Circa 695.
+### Sources ###
+
+Aldhelm, and A. M. Juster. *Saint Aldhelm’s Riddles*. University of Toronto Press, Scholarly Publishing Division, 2015. 8-9. Circa 695.
 
 Brown, James J. Jr. “The Decorum of Objects.” USC Conference on Rhetorical Theory September 8, 2011.
 
-Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies, Vol. 14, No. 3 (Autumn, 1988), pp. 575-599.
+Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” *Feminist Studies*, Vol. 14, No. 3 (Autumn, 1988), pp. 575-599.
 
 Maher, Jennifer. Text message.
 
 Morton, Timothy. “Here Comes Everything.” 
 
-Quintilian, Institutes of Oratory VI. Chapt. 1; IX Chapt. 2.
+Quintilian, *Institutes of Oratory VI*. Chapt. 1; IX Chapt. 2.
 
-Soper, Harriet. “Reading the Exeter Book Riddles as Life-Writing.” The Review of English Studies, New Series, Vol. 68, No. 287, 841–865 doi: 10.1093/res/hgx009.
+Soper, Harriet. “Reading the Exeter Book Riddles as Life-Writing.” *The Review of English Studies*, New Series, Vol. 68, No. 287, 841–865 doi: 10.1093/res/hgx009.
 
-Suchman, Lucy. “Practice and its Overflows: Reflections on Order and Mess.” Technoscienza: Italian Journal of Science & Technology Studies Volume 2(1) pp. 21-30.
+Suchman, Lucy. “Practice and its Overflows: Reflections on Order and Mess.” *Technoscienza: Italian Journal of Science & Technology Studies* Volume 2(1) pp. 21-30.
 
-Webb, R. (2009). Ekphrasis, Imagination and Persuasion in Ancient Rhetorical Theory and Practice. London: Routledge, https://doi.org/10.4324/9781315578996
+Webb, R. (2009). *Ekphrasis, Imagination and Persuasion in Ancient Rhetorical Theory and Practice*. London: Routledge, https://doi.org/10.4324/9781315578996
 
