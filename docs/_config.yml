@@ -24,6 +24,15 @@ url: "https://hyperrhiz.github.io/fibrous-media/" # the base hostname & protocol
 twitter_username: polyrhetor
 github_username:  hyperrhiz
 
+#collections
+collections:
+ elocutio:
+  output: true
+ repo:
+  output: true
+ bombix:
+  output: true
+  
 # Build settings
 markdown: kramdown
 theme: minima
