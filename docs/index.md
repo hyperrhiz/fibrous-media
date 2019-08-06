@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![alt text]({{site.baseurl}}/assets/gefraegn.jpg "title slide")
+
 A collection space for fiber-related work for my book project.
 
 ### Presentations ###
@@ -12,6 +14,7 @@ A collection space for fiber-related work for my book project.
 - [a repo of one's own]({{site.baseurl}}/repo/)
 - [bombix &bull; fusus]({{site.baseurl}}/bombix/)
 - [e-locutio]({{site.baseurl}}/elocutio/)
+- [three of a kind]({{site.baseurl}}/triptych/)
 - electric barthes flarf scarf
 
 ### Publications ###
