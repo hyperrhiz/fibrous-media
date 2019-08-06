@@ -6,12 +6,12 @@ permalink: /elocutio/
 
 *Draft of paper given at ELO 2019 in Cork. This is a work in progress; attribute appropriately.*
 
+![alt text]({{site.baseurl}}/elocutio/slides/Slide1.gif "title slide")
+
 **Title:** E-locutio: Stitching Styles and Pulling Threads in Electronic Literature  
 **Author:** Helen J Burgess  
 **Affiliation:** NC State University  
 **Slides:** [slides.pptx](slides.pptx)
-
-![alt text]({{site.baseurl}}/elocutio/slides/Slide1.gif "title slide")
 
 **Abstract:** This paper explores some common stylistic elements that appear among writing, programming, and embroidery. Stylistic activities seek to optimize limited resources (fiber, memory, or speech), create patterns of expression (knots, loops, repetitions), and build networks and relations between ideas ("threads"). 
 

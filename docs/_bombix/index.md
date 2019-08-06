@@ -9,7 +9,7 @@ permalink: /bombix/
 **Title:** Rhetoric, riddles, and the strange stranger    
 **Author:** Helen J Burgess  
 **Affiliation:** NC State University  
-**source code:** [github](https://github.com/hyperrhiz/bombix)
+**Source code:** [github](https://github.com/hyperrhiz/bombix)
 
 **Abstract:** This paper discusses the potential of using rhetorical terminology and concepts in enacting rhetorical handcrafting — a practice akin to critical making that incorporates traditional textile crafting techniques and focusses on the voices and presences of the objects that collaborate with us to produce handcrafted artefacts. As a focal point, I present “bombix &bull; fusus”: a project combining silk cocoons, embroidery, and wearable technologies that investigates Timothy Morton’s observation from OOO that “rhetoric is a technique for contacting the strange stranger.” Silkworms and spindles, ancient textile technologies, collaborate with light and color sensors and human hands to produce a meditation on secrecy, animality, closeness and distance.  
 

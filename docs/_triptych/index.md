@@ -6,14 +6,15 @@ permalink: /triptych/
 
 *Draft of paper given at Babel Reno in 2017. This is a work in progress; attribute appropriately.*
 
+![alt text]({{site.baseurl}}/triptych/img/01.jpg "title slide")
+
 **Title:** Three of a kind: a triptych for trying times.    
 **Author:** Helen J Burgess  
-**Affiliation:** NC State University  
-**Abstract:** A panel for Babel Reno 2017, co-chaired by me and Lara Farina. The conceit: you're dealt 5 cards from the Farina/Burgess Triomphe Deck. What can you do with the hand you're dealt? Here's what I did with mine.  
+**Affiliation:** NC State University
+
+**Abstract:** A panel for Babel Reno 2017, co-chaired by me and Lara Farina. The conceit: you're dealt 5 cards from the Farina/Burgess Triomphe Deck. What can you do with the hand you're dealt? Here's what I did with mine. Includes three embroidery canvases in a box, stitched with fragments of the Exeter Book and protective incantations in Latin.
 
 ---
-
-![alt text]({{site.baseurl}}/triptych/img/01.jpg "title slide")
 
 ### Card number one: ace of motives. ###
 
